@@ -1,0 +1,15 @@
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/repository/CountryCodeRepository.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/repository/UserRepository.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/config/SecurityConfig.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/dto/CountryCodeDTO.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/config/DatasourceConfig.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/service/CountryCodeService.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/SpringBootJwtApplication.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/entity/User.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/config/ResourceServerConfig.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/config/AuthorizationServerConfig.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/entity/CountryCode.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/service/CountryCodeServiceImpl.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/entity/Role.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/controller/CountryCodeController.java
+/home/bethboose/IdeaProjects/sim-java-jwt/src/main/java/asia/embla/service/UserDetailsServiceImpl.java
